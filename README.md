@@ -6,6 +6,15 @@ This repository contains a ZEC (Zcash) miner for OS X. It employs the Xenoncat C
 
 ## Run Instructions
 
+### Neccessary Packages
+
+There are a few packages that are required before you are able to run it. Really BOOST is all that is required so if you already have that then you can skip down to the Startup Procedure to start mining. If you don't have the boost library, the following procedure will install it (with a few other things as well). The order is install brew, install python, install boost, mine Zcash!
+
+	ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)" #installs brew
+	brew update #optional
+	brew install python #not needed if python already
+	brew install boost --with-python
+
 ### Startup Procedure
 
 Open Terminal (Launchpad then typing "terminal" into the search bar is the simplest)
