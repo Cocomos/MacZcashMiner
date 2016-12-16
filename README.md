@@ -43,5 +43,30 @@ Within the repository is a provided configure.txt. You may add to this textfile 
 	$pool us1-zcash.flypool.org:3333
 	$wallet YourTransparentAddressHere
 	$worker YourWorkerNameHere
+	$threads NumberOfCpuThreadsYouWouldLikeToMineOnGetEnteredHere
 	
+## Supported Versions
 
+As I do not have any great resources, I can only test on what I have. So at this time I only know that it runs on OS X Sierra 10.12.2. That does not mean that it cannot run on other versions, nor does that mean it will never run on any other version. I ask the public to check their OS version, attempt to run the program, and report errors/successes. This repository will be updated as time goes.
+
+### OS X Sierra
+	10.12.2
+
+## Donations
+
+This program currently runs with donations activated. It is currently at 2% of total mining. This is to help support me during this tough time I am in. I am an aspiring MD/PhD student currently working on two masters degrees in Chemistry and Mathematics. I wish to be a pediatric hematologist/oncologist helping discover cures and new imaging techniques for cancer in children. Currently, my teaching appointment at California State University - Long Beach is not enough to pay both bills and food so I ask of you to leave the current donation intact (it can be changed, more on that in a second). The donations will also ensure I continue to work on this miner and add other options such as CUDA and OpenCL support, as well as increase hashing speeds. Furthermore, if there are no donations, there are no incentives for improvement.
+
+So, if you so choose to run the program without donations activated, you may do so by simply using the miner file in the repository as you would an nheqminer (my program and formatting is based off theirs). However, you will be missing out on the hidden silly easter eggs you can only find in my CocomosMacZcashMiner.
+
+### Donation Dropboxes
+	BTC: 1NWnub25XHVdYZB89MqMuFMKHYGW9Y96Mz
+	ZEC: t1cPPbXL3vABfTQ7GAUQSSUzUPLHQrZn59w
+
+## Acknowledgements
+
+Much of this code at this time was adapted from existing freesource software, so I must give my thanks to the following:
+
+	Zcash official and unofficial devolopers
+	Xenoncat and the freesource CPU algorithm used here
+	NiceHash and thier freesource nheqminer to which I based my user interface and organization off of substantially
+	
