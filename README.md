@@ -1,8 +1,8 @@
 # MacZcashMiner
-CPU ZEC miner for OS X
+CPU ZEC miner for OS X for pools
 
 
-This repository contains a ZEC (Zcash) miner for OS X. It employs the Xenoncat CPU algorithm.
+This repository contains a ZEC (Zcash) miner for OS X. It employs the Xenoncat CPU algorithm. This is for pools.
 
 ## Run Instructions
 
