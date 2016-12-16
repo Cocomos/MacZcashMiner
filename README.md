@@ -40,4 +40,8 @@ You simply type the command given on the left corresponding to what it does on t
 Within the repository is a provided configure.txt. You may add to this textfile the corresponding inputs. The program will read if the file is present and active and bypass the interactive input. A sample configure.txt file may be:
 
 	$active 1 # 1 = active, 0 = inactive
-	$
+	$pool us1-zcash.flypool.org:3333
+	$wallet YourTransparentAddressHere
+	$worker YourWorkerNameHere
+	
+
