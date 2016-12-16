@@ -69,4 +69,5 @@ Much of this code at this time was adapted from existing freesource software, so
 	Zcash official and unofficial devolopers
 	Xenoncat and the freesource CPU algorithm used here
 	NiceHash and thier freesource nheqminer to which I based my user interface and organization off of substantially
+	Those individuals on mining forums asking for viable OS X Zcash miner
 	
