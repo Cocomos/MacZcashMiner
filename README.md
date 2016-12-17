@@ -21,7 +21,10 @@ Open Terminal (Launchpad then typing "terminal" into the search bar is the simpl
 
 cd to the MacZcashMiner directory
 
-Type ./CocomosMacZcashMiner
+Type
+
+	gcc -o CocomosMacZcashMiner CocomosMacZcashMiner.c
+	./CocomosMacZcashMiner
 
 ### UI vs Automatic Startup
 
@@ -60,6 +63,9 @@ As I do not have any great resources, I can only test on what I have. So at this
 
 ### OS X Sierra
 	10.12.2
+	
+### OS X El Capitan
+	10.11.6
 
 ## Donations
 
