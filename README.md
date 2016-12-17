@@ -23,7 +23,6 @@ cd to the MacZcashMiner directory
 
 Type
 
-	gcc -o CocomosMacZcashMiner CocomosMacZcashMiner.c
 	./CocomosMacZcashMiner
 
 ### UI vs Automatic Startup
