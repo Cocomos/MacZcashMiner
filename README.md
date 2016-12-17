@@ -58,7 +58,7 @@ Within the repository is a provided configure.txt. You may add to this textfile 
 	
 ## Supported Versions
 
-As I do not have any great resources, I can only test on what I have. So at this time I only know that it runs on OS X Sierra 10.12.2. That does not mean that it cannot run on other versions, nor does that mean it will never run on any other version. I ask the public to check their OS version, attempt to run the program, and report errors/successes. This repository will be updated as time goes.
+As I do not have any great resources, I can only test on what I have. So at this time I only know that it runs on OS X Sierra 10.12.2. That does not mean that it cannot run on other versions, nor does that mean it will never run on any other version. I ask the public to check their OS version, attempt to run the program, and report errors/successes. This repository will be updated as time goes. Below is the list of known working versions.
 
 ### OS X Sierra
 	10.12.2
