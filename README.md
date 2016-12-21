@@ -1,8 +1,13 @@
 # MacZcashMiner
-CPU ZEC miner for OS X for pools
+ZEC miner for OS X for pools
 
 
-This repository contains a ZEC (Zcash) miner for OS X. It employs the Xenoncat CPU algorithm. This is for pools.
+This repository contains a ZEC (Zcash) miner for OS X. The CPU miner employs the Xenoncat algorithm, the GPU miner is currently in testing (use at your own risk) and is only for AMD cards. The GPU miner uses fast silentarmy kernels. This is for pools.
+
+### Current Projects
+- Complete AMD miner
+- Add NVIDIA support
+- Combine all miners into one
 
 ## Run Instructions
 
@@ -82,6 +87,7 @@ Much of this code at this time was adapted from existing freesource software, so
 
 	Zcash official and unofficial devolopers
 	Xenoncat and the freesource CPU algorithm used here
-	NiceHash and thier freesource nheqminer to which I based my output and organization off of substantially
+	NiceHash and their freesource nheqminer to which I based my output and organization off of substantially
+	Silentarmy and their freesource software as I have applied their fast kernels
 	Those individuals on mining forums asking for viable OS X Zcash miner
 	
