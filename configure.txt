@@ -1,5 +1,0 @@
-$active 1
-$pool us1-zcash.flypool.org:3333
-$wallet t1cPPbXL3vABfTQ7GAUQSSUzUPLHQrZn59w
-$worker czm
-
