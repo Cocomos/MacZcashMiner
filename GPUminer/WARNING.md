@@ -14,7 +14,7 @@ This error can occur for two known reasons - 1) not enough memory, 2) no AMD car
 
 ### segmentation fault:
 
-This error has one known reason - 1) not enough memory
+This error has two known reasons - 1) not enough memory, 2) you are missing the necessary silentarmy kernels
 
 ### laggy computer:
 
