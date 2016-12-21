@@ -4,6 +4,8 @@ ZEC miner for OS X for pools
 
 This repository contains a ZEC (Zcash) miner for OS X. The CPU miner employs the Xenoncat algorithm, the GPU miner is currently in testing (use at your own risk) and is only for AMD cards. The GPU miner uses fast silentarmy kernels. This is for pools.
 
+If you are testing the soft release of the AMD miner, please read the GPUMinerReleases/WARNING.md file before doing so. I am not responsible for any damages. It's not so much the program may harm the computer, but false measures you take to fix possible errors are what's more likely to cause harm! Just covering my booty if your computer breaks. Rule of thumb, don't be a dummy and start changing important header files and such.
+
 ### Current Projects
 - Complete AMD miner
 - Add NVIDIA support
