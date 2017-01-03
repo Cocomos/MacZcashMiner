@@ -8,6 +8,7 @@ If you are testing the soft release of the AMD miner, please read the GPUMinerRe
 
 ### Current Works in Progress
 - Pure OpenCL miner
+
 NOTE: CUDA support scrapped! Since all Macs have their CPUs and GPUs support some version of OpenCL, the project has now been changed to an all OpenCL project. This way, any Mac owner will be able to mine on their CPU and GPU. That means all GPUs will be supported, including AMD, NVIDIA, and Intel HD Graphics! Both the CPU and GPU miners here will no longer be updated (maybe once more as I have made some improvements).
 
 ## Run Instructions
