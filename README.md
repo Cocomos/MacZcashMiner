@@ -6,10 +6,9 @@ This repository contains a ZEC (Zcash) miner for OS X. The CPU miner employs the
 
 If you are testing the soft release of the AMD miner, please read the GPUMinerReleases/WARNING.md file before doing so. I am not responsible for any damages. It's not so much the program may harm the computer, but false measures you take to fix possible errors are what's more likely to cause harm! Just covering my booty if your computer breaks. Rule of thumb, don't be a dummy and start changing important header files and such.
 
-### Current Projects
-- Complete AMD miner
-- Add NVIDIA support
-- Combine all miners into one
+### Current Works in Progress
+- Pure OpenCL miner
+NOTE: CUDA support scrapped! Since all Macs have their CPUs and GPUs support some version of OpenCL, the project has now been changed to an all OpenCL project. This way, any Mac owner will be able to mine on their CPU and GPU. That means all GPUs will be supported, including AMD, NVIDIA, and Intel HD Graphics! Both the CPU and GPU miners here will no longer be updated (maybe once more as I have made some improvements).
 
 ## Run Instructions
 
